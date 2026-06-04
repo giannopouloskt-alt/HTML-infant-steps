@@ -1,0 +1,98 @@
+body {
+  font-family: garamond, Arial, sans-serif;
+  font-size: 16px;
+}
+div.upper {
+  font-size: 18px;
+  height: 70px;
+}
+div.upper p {
+  margin-right: 28px;
+  top: 25px;
+  display: inline;
+  position: relative;
+  left: 780px;
+}
+div.start {
+  color: white;
+  text-transform: capitalize;
+  background-color: #a9a9a9;
+  font-size: 35px;
+  height: 270px;
+}
+div.hold {
+  margin-left: 350px;
+  width: 1000px;
+  text-align: left;
+}
+p.bot {
+  font-size: 20px;
+  margin-top: 50px;
+  display: inline-block;
+}
+h1.top {
+  display: inline-block;
+  font-size: 60px;
+  position: relative;
+  bottom: 50px;
+}
+div.right {
+  text-align: left;
+  width: 550px;
+  right: 370px;
+  font-size: 20px;
+  margin-top: 70px;
+  display: inline-block;
+  position: absolute;
+}
+div.right p {
+  font-size: 17px;
+}
+p.cap {
+  text-transform: uppercase;
+  font-size: 17px;
+}
+h1.high {
+  font-size: 50px;
+  color: rgb(7, 51, 51);
+  text-transform: capitalize;
+}
+div.back {
+  margin: 50px 0 150px 325px;
+  width: 550px;
+  height: 500px;
+  border-top-left-radius: 35rem;
+  overflow: hidden;
+  background-image: url("https://www.leafnet.com.cy/wp-content/uploads/2025/09/pexels-photo-8472864.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+div.black {
+  background-color: rgb(0, 16, 16);
+  color: white;
+  height: 400px;
+}
+div.journey {
+  font-size: 21px;
+  text-align: left;
+  margin-left: 200px;
+  display: inline-block;
+  width: 550px;
+  position: relative;
+  left: 150px;
+  text-transform: capitalize;
+  margin-top: 70px;
+}
+div.yap {
+  text-align: left;
+  width: 550px;
+  right: 370px;
+  font-size: 20px;
+  display: inline-block;
+  position: absolute;
+  margin-top: 70px;
+  font-size: 17px;
+}
